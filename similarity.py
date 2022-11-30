@@ -3,6 +3,9 @@ import csv
 import nlpaug.augmenter.word as naw
 import nltk
 import torch
+import numpy as np
+
+import torch.nn as nn
 
 nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
@@ -36,6 +39,8 @@ from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer('bert-base-uncased', device=device)
 model.to(device)
+cos = nn.CosineSimilarity(dim=1, eps=1e-6)
+
 
 with open(input_file) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
@@ -45,7 +50,8 @@ with open(input_file) as csv_file:
     for row in csv_reader:
         sentences = [row[1], row[2]]
         sentence_embeddings = model.encode(sentences)
-        sim = cosine_similarity([sentence_embeddings[0]], sentence_embeddings[1:])
+        sim = cos(torch.Tensor(sentence_embeddings[0].reshape(-1,1)), torch.Tensor(sentence_embeddings[1].reshape(-1,1)))
+        # sim = cosine_similarity([sentence_embeddings[0]], sentence_embeddings[1:])
         end = time.time()
         print(end - start)
 csv_file.close()
