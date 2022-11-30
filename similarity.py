@@ -40,6 +40,12 @@ from sentence_transformers import SentenceTransformer
 model = SentenceTransformer('bert-base-uncased', device=device)
 model.to(device)
 cos = nn.CosineSimilarity(dim=1, eps=1e-6)
+cos.to(device)
+
+# for some reason, loading the embedding first time taking a lot of time. So to avoid that I am just computing a random embedding at the beginning
+sentences = ["a is the first letter", "a cat is bigger than a bird"]
+sentence_embeddings = model.encode(sentences)
+sim = cos(torch.Tensor(sentence_embeddings[0].reshape(-1,1)), torch.Tensor(sentence_embeddings[1].reshape(-1,1)))
 
 
 with open(input_file) as csv_file:
