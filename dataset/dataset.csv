@@ -1,0 +1,145 @@
+Id,sentence,Replacement
+1,"(not sure if I should tag someone for this, a wild guess: @LysandreJik @patil-suraj )
+
+Edit by Lysandre: @sgugger :)","(not sure if I should tag someone for this, a baseless supposition: @LysandreJik @patil-suraj )
+
+Edit by Lysandre: @sgugger :)"
+2,"(such as starting with `:` or `<`)
+
+Thanks for the sanity check.","(such as starting with `:` or `<`)
+
+Thanks for the basic test."
+10,"@API92 ,
+ In order to expedite the trouble-shooting process, could you please provide  code dependencies you are using as I was facing error to provide `input for the checkpoints`.Thanks!","@API92 ,
+ In order to expedite the problem identification process, could you please provide  code dependencies you are using as I was encountering error to provide `input for the checkpoints`.Thanks!"
+15,"@bpasero
+
+Thanks for the explanation and hard debugging work.","@bpasero
+
+Thanks for the explanation and hard work for finding and solving mistakes in the code."
+16,"@Brain2000, it will be magic!","@Brain2000, it will be fascinating!"
+17,"@bvaughn thank you so much, you're life saver","@bvaughn thank you so much, you've been a lot of help"
+18,@bvaughn your patience is emmy-award winning.,@bvaughn your patience is exceptional.
+21,@denosaurtrain let's hope there is some relief soon.,@denosaurtrain let's hope there is some solution soon.
+23,"@FirefoxMetzger This is probably the worst instance in the steady parade of “TF apologists” over the past two years, of various individuals who do not understand the issue claiming it is not a problem.","@FirefoxMetzger This is probably the worst instance in the consistency of “TF apologists” over the past two years, of various individuals who do not understand the issue claiming it is not a problem."
+26,@gaearon I finally tracked down my memory leak.,I finally found the cause my memory allocation issue.
+32,@jaingaurav I did rebase but seems CI is unhappy.,I did reapply the changes but seems CI is unhappy.
+33,"@jrieken well, it just seemed like the list would be huge and full of dupes.","well, it just seemed like the list would be huge and repetitive"
+34,@julien-c You have a good memory!,You remembered!
+41,"@mohantym Hi, I might can give u the model arch.","Hi, I might can give u the simplified description."
+43,@patrickvonplaten sorry for the radio silence (was on vacation).,@patrickvonplaten sorry for not responding (was on vacation).
+48,@trusktr No idea what you're trying to say with that last bit.,@trusktr Don't understand what you are trying to communicate in that last part.
+50,"* as someone trying to solve a problem (resolving conflicts) that was blocking me from other work, i felt frustrated that there weren't clear steps i could take to use the new ui.","* as someone trying to solve a problem (resolving conflicts) that was preventing me from other work, i felt frustrated that there weren't obvious actions to perform in order to use the new ui."
+51,"*`
+
+Argh, tricked again by that funky syntax.","*`
+
+Argh, tricked again by thatstrange syntax."
+52,"```
+--> not just a hope, dream comes True now :-)
+
+Thank you again for the contribution.","```
+--> not just a hope, expectations are fulfilled now :-)
+
+Thank you again for the contribution."
+53,"```suggestion
+`git-lfs.github.com <https://git-lfs.github.com/>`__ is decent, but we'll work on a tutorial with some tips and tricks in the coming weeks!","```suggestion
+`git-lfs.github.com <https://git-lfs.github.com/>`__ is decent, but we'll work on a tutorial with some advice in the coming weeks!"
+55,"`GOOGLE_CUDA` has outlived its usefulness long ago, IMO.","`GOOGLE_CUDA` was used for a long time after it became useless, IMO."
+56,"^-^
+
+Hi @llv22, thank's a lot for your answer, it's a very rich explanation of your similar problem, and there are a lot of things to think about.","... its a very detailed explanation of your similar problem, and there are several details to think about."
+60,"> that was a chat thread between us
+
+My memory is like Swiss cheese sometimes 😅",My memory is forgetful sometimes
+63,A big modal in the face is not great.,A big user interface covering everything is not great.
+64,A link to that section then would be a nice segway.,A link to that section then would be a nice transition.
+66,A one-item array seems like overkill to me.,A one-item array seems more than the requirements to me.
+69,Actually it's a dumb mac issue.,Actually it's a small and annoying mac issue.
+71,"Actually, sorry to flip-flop back on this.","Actually, sorry to go back and forth on this."
+72,Adding my voice to the folks that find the new UI incredibly frustrating.,Adding my opinion to the folks that find the new UI incredibly frustrating.
+74,"Ah ok, they come from the config service frozen I guess.","Ah ok, they come from the config service inactive I guess."
+77,"Ah, this is good insight.","Ah, this is a good example."
+79,All of the comments are written in a very terse way so far.,All of the comments have been written briefly so far.
+82,Also is there anything special about 4 threads :-).,Also is there anything special about 4 conversations :-).
+83,"also, silly question, what about throttling the update.","also, unsophi question, sticated, what about throttling the update."
+87,And it has quite a few goodies in it.,And it has quite a few useful items in it.
+89,And look like it is a root case!,And look like it is the point of origin!
+90,"And sorry, I forgot to mention in order to avoid the test failure you saw yesterday, you can rebase the working branch on `main`.","And sorry, I forgot to mention in order to avoid the test failure you encountered yesterday, you can base the code you work with on `main`."
+92,And then it will be all magical.,And then it will be all incredible.
+94,"And you are NOT GRATEFUL to me FOR GOOD, but you are doing EVIL: put dislikes.","And you are NOT GRATEFUL to me FOR GOOD, but you are doing the taking inappropriate action: put dislikes."
+97,"Apparently, some copy/paste-step caused them to vanish..","Apparently, a part of the process that involved copying caused them to decrease.."
+99,As discussed let's rather throw a warning here :-),As discussed let's rather display a warning message here :-)
+100,"As public APIs, it would be great to have the functions kindly throw exceptions for these cases instead of crashing.","As public APIs, it would be great to have the functions kindly return exceptions for these cases instead of running into errors."
+102,"Aside from the automatic theme switching, things like common keyboard shortcuts should be the same in all profiles, and it would be nice to have an option to selectively enforce this somehow :)","Aside from the automatic theme switching, things like common keyboard shortcuts should be the same in all accounts, and it would be nice to have an option to selectively enforce this somehow :)"
+103,"assertTrue on the other hand is a pretty nasty ""False is not true"" message, which doesn't really help (and for larger structures it's sometimes hard to pinpoint where the difference happened.","assertTrue, on another topic is a unwanted ""False is not true"" message, which doesn't really help (and for larger structures it's sometimes hard to locate where the difference happened."
+104,"At that stage, we expect to gather some common recipes, and we'll definitely welcome (and need!)","At that stage, we expect to gather some common methods, and we'll definitely welcome (and need!)"
+105,"At the same time, `jaxlib.xla_extension.DeviceArray` is a mouthful.","At the same time, `jaxlib.xla_extension.DeviceArray` is a lot to say."
+110,"But as I understand, `Config` is a super high level representation, and `tokenizer` should depend on it, not the other way around, so it feels a bit wrong to me that `config.tokenizer_class` even exists.","But as I understand, `Config` is a super general representation, and `tokenizer` should depend on it, not vice versa, so you may think that it's a bit wrong to me that `config.tokenizer_class` even exists."
+112,But I don't think we should bend backwards to make que QA pipeline work within a mode where it tries to recover because a model doesn't work properly ;).,But I don't think we should do too much work to make que QA pipeline work within a mode where it tries to recover because a model doesn't work properly ;).
+115,"But I'll find a way around this, thank you for posting the errors.","But I'll find a solution for this, thank you for reporting the errors."
+116,"But if it is the only thing that blocks the fix, I am happy do include it.","But if it is the only thing that prevents the fix, I can easily include it."
+117,But it looks pleasant and natural to have that in editor like this which people like myself use like daily driver.,But it looks pleasant and natural to have that in editor like this which people like myself use as a tool that's used everyday.
+118,But it would certainly not be mind-blowing.,But it would certainly not be surprising.
+120,But my classes are highly imbalanced; not using class weights would train a useless model.,But my classes are highly imbalanced; not using class coeficients would prepare a useless model.
+121,But that's probably too heavy handed to build.,But that's probably too strict to build.
+122,But these are still crazy ideas.,But these are still unconventional ideas.
+123,But unfortunately I could not find example of using flatbuffers instead of tflite model inside a tflite code.,But unfortunately I could not find example of using flatbuffers instead of tflite examples inside a tflite code.
+124,"But until then the current release works, but it will break.)","But until then the current release works, but it will still perform incorrectly.)"
+126,"Cannot say it often enough, this model content change event WILL FIRE like CRAZY.","Cannot say it often enough, this model content change event WILL be initiated multiple times"
+129,"Changing the design here comes with a big cost of ""astonishment"" IMO for everybody that is used to how the loss is computed previously / in other models","Changing the design here comes with a lack of ""astonishment"" IMO for everybody that is used to how the loss is computed previously / in other models"
+130,CHECK really isn't great as it crashes the entire process which potentially runs other things as well.,CHECK really isn't great as it disrupts the entire process which potentially runs other things as well.
+131,"Clearly, I didn't have enough coffee today.","Clearly, I don't have a lot of energy today."
+132,Code-smell: I feel that this helper is too monolithic in some way that is hard to isolate.,Code-smell: I think that this helper is too rigid in some way that is difficult to distinguish.
+135,"Cool, I'm happy with tweaking the wording 😄","Cool, I'm happy with small changes of the wording 😄"
+136,Debugging the Flow fix is gonna be fun given Flow is broken for me locally.,Debugging the Flow fix is gonna be difficult given Flow is not working for me locally.
+138,Different devices may actually yield different results for the same operation if they choose to implement FP operations differently.Thanks!,Different devices may actually produce different results for the same operation if they choose to implement FP operations differently.Thanks!
+139,ditto - can we simplify these overloadings using the parameter struct I mentioned above?,ditto - can we simplify these overloadings using the parameter struct I mentioned earlier?
+141,Ditto for shadowing question and tests on these variables if we add this!,Ditto for repeating question and tests on these variables if we add this!
+143,Doesn't seem like a good idea to pull out its members into key-val pairs.,Doesn't seem like a good idea to extract its members into key-val pairs.
+145,Dumb question but why is the file named after timm if its a conversion from the original repo that doesn't look to have any link with timm?,Unimportant question but why is the file named after timm if its a conversion from the original repo that doesn't look to have any connection with timm?
+146,Easy to have a 3am WTF when your eyes are tired and brain is in low-power mode.,Easy to have a 3am WTF when you're exhausted
+150,"Even though it's cleaner your way, it's nice to keep the code churn to a minimum.","Even though your implementation is better, it's nice to avoid unnecessarily rewriting the code."
+153,"Faster is better, of course, but not a deal-breaker for me.","Faster is better, of course, but not unacceptable for me."
+154,Feels a little goofy to check for this here.,Feels a little unbefitting to check for this here.
+155,"feels very familiar conceptually, super excited to see this stuff start to come about","feels very familiar conceptually, super excited to see these things start to happen."
+157,Fixed by nuking the whole thing ha.,Fixed by damaging the entire software ha.
+159,"For what it's worth, I hit on this issue.","For what it's could do to help, I made progress on this issue."
+160,Fresh eyes always help 👀,Having someone who didn't work on this always help 👀
+162,Gently pinging @LysandreJik for his blessing on this PR too :),Politelypinging @LysandreJik for his approval on this PR too :)
+165,"Good point about other props, thank you.","Nice comment about the other props, thank you"
+171,Great that you updated the smoke test.,Great that you updated tests for detecting simple failures.
+173,"Great, I'll rebase the branch and do precisely that.","Great, I'll reapply the path and do precisely that."
+177,"Haha yeah, I went overboard with this one -- with the number of lookups we do per call, it is faster to create the set, but we're talking about microseconds (went on to check it with `timeit`).","Haha yeah, I've done more than I needed with this one -- with the number of lookups we do per call, it is faster to create the set, but we're talking about microseconds (went on to check it with `timeit`)."
+178,"Happy to discuss next steps and/or elaborate on the code as needed, but the branch is yours now.","Happy to discuss next steps and/or elaborate on the code as needed, but this copy of the code is yours now."
+179,Happy to help if this remains a road-block.,Happy to help if this remains a factor that stops the process.
+180,Happy to revisit if you can show that this function is the bottleneck in this code.,Happy to revisit if you can show that this function is the limiting factor in this code.
+181,Happy to take a PR that fixes this by making the range more permissible.,Happy to receive a PR that fixes this by changing the range to be more permissible.
+182,Happy to wordsmith it more later if there's feedback!,Happy to describe more later if there's feedback!
+183,Hard for me to say further because I'm not sure what you're building.,Difficult for me to say anything else because I'm not sure what you're building.
+185,Have to main the list here will be a maintenance headache.,Have to main the list here will be difficult for maintenance .
+186,"Having a separate menu would be more transparent.
+!","Having a separate menu would be more clear.
+!"
+187,Having to cast to any is a red flag to me,Having to cast to any is a risk to me
+190,"Hello @shiva1393 ,
+ In order to expedite the trouble-shooting process, could you please provide a complete code you are using and also I request, please try to test the code in latest stable tensorflow v2.8 and let us know if you are facing same issue.Thanks!","Hello @shiva1393 ,
+ In order to expedite the trouble-shooting process, could you please provide a complete code you are using and also I request, please try to test the code in latest released version tensorflow v2.8 and let us know if you are experiencing the same issue.Thanks!"
+192,"Hello, i am still expecting a positive feedback, thank you and God bless","Hello, i am still expecting a positive feedback, thank you and be safe"
+193,"Hey @hadaev8,
+
+That's actually quite a smart fix :-) Think I'd be ok with adding this!",That's actually quite a wise solution :-) Think I'd be ok with adding this!
+194,"Hey @stefan-falk,
+
+Sorry I think we're getting a bit too many issues / questions thrown together here.","Hey @stefan-falk,
+
+Sorry I think we're receiving a bit too many issues / questions mixed here."
+196,"Hi @bvaughn 
+I have been playing around the devtools packages codebase the whole night.","Hi @bvaughn 
+I have been experimenting with the devtools packages codebase during entire night."
+198,"Hi @eamodio, The values here are kinda magic numbers, Can we move these constants to somewhere else?","Hi @eamodio, The values here are hard to explain, Can we move these constants to somewhere else?"
+199,"Hi @nvcastet, thanks for pinging me on this issue.","Hi @nvcastet, thanks for informing me about this issue."
+200,"Hi @reedwm thanks for the analysis, let me quickly check to see which kind of release will best address this issue.","Hi @reedwm thanks for the analysis, let me quickly check to see which kind of deployment will best fix this issue."
+203,"Hi 👋
+I’m the original author of this ESLint rule popping in for a review.","Hi 👋
+I’m the original author of this ESLint rule joining you for a review."
