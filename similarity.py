@@ -34,7 +34,8 @@ print(device)
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 
-model = SentenceTransformer('bert-base-uncased')
+model = SentenceTransformer('bert-base-uncased', device=device)
+model.to(device)
 
 with open(input_file) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
@@ -43,7 +44,7 @@ with open(input_file) as csv_file:
     start = time.time()
     for row in csv_reader:
         sentences = [row[1], row[2]]
-        sentence_embeddings = model.encode(sentences, device=device)
+        sentence_embeddings = model.encode(sentences)
         sim = cosine_similarity([sentence_embeddings[0]], sentence_embeddings[1:])
         end = time.time()
         print(end - start)
